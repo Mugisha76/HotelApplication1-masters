@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HotelApplication</string>
+    <string name="title_activity_hotel_fragment_handler">HotelFragmentHandler</string>
+</resources>
